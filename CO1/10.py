@@ -1,3 +1,4 @@
+# Sanu K Joseph
 a= int(input("enter the fist number"))
 b= int(input("enter the second number"))
 c= int(input("enter the third number"))

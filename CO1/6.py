@@ -1,3 +1,4 @@
+# Sanu K Joseph
 def compare():
     list1 = list(map(int, input("Enter the first list: ").split()))
     list2 = list(map(int, input("Enter the second list: ").split()))

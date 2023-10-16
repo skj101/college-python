@@ -1,3 +1,4 @@
+# Sanu K Joseph
 #Python program to copy odd lines of one file to other***
 
 f1=open("numbers.txt",'r')

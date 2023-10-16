@@ -1,3 +1,4 @@
+# Sanu K Joseph
 rect=lambda x,y: x*y 
 sqr=lambda x: x*x 
 tri=lambda x,y: .5*x*y 

@@ -1,1 +1,4 @@
-print("occurrences of the word", input("Enter a sentence : ").count(input("Enter a word : ")))
+# Sanu K Joseph
+a=input("Enter a text :").lower()
+b=input("Enter word to check :").lower()
+print('Occurence of "{}" in "{}" is "{}"'.format(b,a,a.count(b)))

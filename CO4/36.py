@@ -1,3 +1,4 @@
+# Sanu K Joseph
 class Time:
     def __init__(self):
         self.h=int(input("Enter the hour:"))

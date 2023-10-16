@@ -1,3 +1,4 @@
+# Sanu K Joseph
 num1 = int(input("Please enter the first 4-digit number: "))
 num2 = int(input("Please enter the second 4-digit number: "))
 
