@@ -1,6 +1,3 @@
 # Sanu K Joseph
-lst = []
-num = int(input('Enter limit: '))
-for n in range(num):
-    lst.append(int(input('Enter number : ')))
-print("Sum of elements list :", sum(lst))
+num_list = [int(x) for x in input("Enter a list of numbers separated by spaces: ").split()]
+print("Sum of the list:", sum(num_list))
