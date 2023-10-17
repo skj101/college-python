@@ -1,4 +1,2 @@
-# Sanu K Joseph
-x1 = str(input("Enter a string : "))
-firstchar = x1[0]
-print(firstchar + x1.replace(firstchar, "$")[1:])
+user_input = input("Enter a string: ")
+print("Modified string:", user_input[0] + user_input[1:].replace(user_input[0], '$'))
