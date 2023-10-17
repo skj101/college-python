@@ -1,3 +1,3 @@
 # Sanu K Joseph
-a = sorted(input("Enter list of words: ").split(), key=len) [-1]
-print ("Longest word : ", str(a), "\nlength :", str(len(a)))
+word_list = input("Enter a list of words: ").split()
+print(f"The largest word is: {max(word_list, key=len)}")
