@@ -1,2 +1,3 @@
 # Sanu K Joseph
-print("Reversed string:", input("Enter a string: ")[::-1])
+str1 = input("Enter a string :")
+print(str1[-1]+str1[1:-1]+str1[0])

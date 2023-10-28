@@ -1,4 +1,6 @@
 # Sanu K Joseph
-from math import factorial
-number = int(input("enter a number :"))
-print(f"The factorial of {number} is {factorial(number)}")
+n=int(input("Enter the number :"))
+fact=1
+for i in range(1,n+1):
+  fact=fact*i
+print(n,"! =",fact)

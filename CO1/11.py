@@ -1,2 +1,3 @@
 # Sanu K Joseph
-print(input("ENTER FILENAME:").split(".")[-1])
+ext=input("ENTER FILENAME:").split(".")
+print(ext[-1])
